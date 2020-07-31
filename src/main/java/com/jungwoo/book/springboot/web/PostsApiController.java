@@ -1,6 +1,6 @@
 package com.jungwoo.book.springboot.web;
 
-import com.jungwoo.book.springboot.service.posts.PostsService;
+import com.jungwoo.book.springboot.service.PostsService;
 import com.jungwoo.book.springboot.web.dto.PostsResponseDto;
 import com.jungwoo.book.springboot.web.dto.PostsSaveRequestDto;
 import com.jungwoo.book.springboot.web.dto.PostsUpdateRequestDto;

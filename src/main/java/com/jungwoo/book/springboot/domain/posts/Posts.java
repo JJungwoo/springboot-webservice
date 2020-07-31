@@ -1,5 +1,6 @@
 package com.jungwoo.book.springboot.domain.posts;
 
+import com.jungwoo.book.springboot.domain.BaseTimeEntity;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
